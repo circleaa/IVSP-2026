@@ -1,6 +1,6 @@
 # Style-Aware Data Augmentation for Deep Learning on Symbolic Music
 
-[![Conference](https://img.shields.io/badge/Conference-IVSP_2026-blue.svg)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14268/1426811/Style-aware-data-augmentation-for-deep-learning-on-symbolic-music/10.1117/12.3116024.short?tab=ArticleLink#s2)
+[![Conference](https://img.shields.io/badge/Conference-IVSP_2026-blue.svg)]([https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14268/1426811/Style-aware-data-augmentation-for-deep-learning-on-symbolic-music/10.1117/12.3116024.short?tab=ArticleLink#s2](https://www.ivsp.net/IVSP2026.html))
 [![DOI](https://img.shields.io/badge/DOI-10.1117%2F12.3116024-orange.svg)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14268/1426811/Style-aware-data-augmentation-for-deep-learning-on-symbolic-music/10.1117/12.3116024.short?tab=ArticleLink#s2)
 [![Paper PDF](https://img.shields.io/badge/Paper-Download_PDF-red.svg)](./StyleAware.pdf)
 
