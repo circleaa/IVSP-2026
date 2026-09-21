@@ -2,7 +2,6 @@
 
 [![Conference](https://img.shields.io/badge/Conference-IVSP_2026-blue.svg)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14268/1426811/Style-aware-data-augmentation-for-deep-learning-on-symbolic-music/10.1117/12.3116024.short?tab=ArticleLink#s2)
 [![DOI](https://img.shields.io/badge/DOI-10.1117%2F12.3116024-orange.svg)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14268/1426811/Style-aware-data-augmentation-for-deep-learning-on-symbolic-music/10.1117/12.3116024.short?tab=ArticleLink#s2)
-[![Grant](https://img.shields.io/badge/Grant-NSTC_114--2637--H--155--001-green.svg)](https://www.nstc.gov.tw/)
 [![Paper PDF](https://img.shields.io/badge/Paper-Download_PDF-red.svg)](./StyleAware.pdf)
 
 > 本儲存庫收錄發表於 **The 2026 8th International Conference on Image, Video and Signal Processing (IVSP 2026)** 之研究論文全文與相關成果資料。
